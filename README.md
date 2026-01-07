@@ -1,16 +1,26 @@
-## Hi there 👋
+# Anson Yeung
 
-<!--
-**anson-yeung/anson-yeung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Physics Undergraduate at the University of Oxford  
+🔬 Contributor to open-source photonics layout and design  
+🎮 Game development and modification enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- **Languages:**  
+  - Proficient: Java, Python  
+  - Intermediate: C#
+
+---
+
+## Photonics Layout
+- Contributing to open-source photonics design tools (e.g. **gdsfactory**)  
+- Focus on computational geometry and layout automation
+
+---
+
+## Game Development & Modification
+- Owner of **JellyLabScripts**, a GitHub organization focused on Minecraft mod development  
+- Main project has over **200,000+ total downloads**  
+- Organization: https://github.com/JellyLabScripts
+
